@@ -1,6 +1,7 @@
 # doudou_down
 小鹅通课程视频下载工具，批量自动下载已购买课程工具
 工具获取地址：
+https://pan.baidu.com/s/1QwB0uAFv5z0oMBBeT4ga6Q?pwd=fanj 提取码:fanj
 
 解压后运行xet_web.exe,
 一、输入课程绑定的手机号，点获取验证码，填入收到的验证码点登录
